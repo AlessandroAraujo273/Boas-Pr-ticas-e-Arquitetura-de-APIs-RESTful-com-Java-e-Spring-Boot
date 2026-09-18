@@ -1,4 +1,4 @@
-# Guia Prático: Boas Práticas e Arquitetura de APIs RESTful Java e Spring Boot
+## Guia Prático: Boas Práticas e Arquitetura de APIs RESTful Java e Spring Boot
 
 ## Objetivo
 Capacitar estudantes de tecnologia e desenvolvedores backend a estruturar, documentar e versionar APIs limpas, seguras e escaláveis utilizando o ecossistema Java e Spring Boot.
